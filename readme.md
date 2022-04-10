@@ -32,6 +32,7 @@ network traffic for each request and work within the Databox (possible?) API rat
 - Add API versioning, rate limiting, authentication? etc..
 - Centrally manage dotnet version and packages (nugets) version.
 - Improve API response handling
+- Add additional unit tests for all of the services (currently only TwitterService has a few tests). 
 	
 Each integration in the solution is an independent project (classlib/dll), and can be used independently in external implementations.
 Each integration can additionaly have its own github repo, build and release pipelines.
