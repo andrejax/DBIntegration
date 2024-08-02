@@ -1,4 +1,5 @@
-﻿To run on Windows, just run the provided exe. It can be found in the directory deploy/windows.
+# C# app with Twitter and Github integration
+ To run on Windows, just run the provided exe. It can be found in the directory deploy/windows.
  
 Open http://localhost:5000/swagger/ in your favourite browser. 
 
